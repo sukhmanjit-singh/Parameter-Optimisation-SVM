@@ -24,7 +24,7 @@ Real
 
 ## Attribute Information:
 
-Input variables (based on physicochemical tests):
+**Input variables (based on physicochemical tests):**<br />
    1 - fixed acidity <br />
    2 - volatile acidity <br />
    3 - citric acid <br />
@@ -36,7 +36,7 @@ Input variables (based on physicochemical tests):
    9 - pH<br />
    10 - sulphates<br />
    11 - alcohol<br />
-Output variable (based on sensory data):<br /> 
+**Output variable (based on sensory data):**<br /> 
    12 - quality (score between 0 and 10)
 
 ## Tasks Performed
