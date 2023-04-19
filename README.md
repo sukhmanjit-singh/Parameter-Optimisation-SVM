@@ -9,16 +9,16 @@
 
 Two datasets are included, related to red and white vinho verde wine samples, from the north of Portugal. The goal is to model wine quality based on physicochemical tests (see [Cortez et al., 2009], http://www3.dsi.uminho.pt/pcortez/wine/).
 
-##Dataset Characteristics
+## Dataset Characteristics
 Multivariate
 
-##Subject Area
+## Subject Area
 Business
 
-##Associated Tasks
+## Associated Tasks
 Classification, Regression
 
-##Attribute Type
+## Attribute Type
 Real
 
 
