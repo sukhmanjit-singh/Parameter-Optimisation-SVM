@@ -1,4 +1,4 @@
-# Parameter-Optimization-of-SVM
+# Parameter-Optimization-SVM
 ## Sampling Assignment
 
 **Dataset Used:** [Wine Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
@@ -59,7 +59,7 @@ The above parameter gave a maximum accuracy of 0.6625 .
 
 ### Convergence graph  : 
 
-![image](https://user-images.githubusercontent.com/72309401/233136025-ea315ba2-4531-4984-b527-63d9ec7e844d.png)
+![image](https://user-images.githubusercontent.com/64249407/233207045-30830ff4-e22e-4ed7-935e-8b365f07eb28.png)
 
 
 
