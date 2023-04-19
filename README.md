@@ -61,6 +61,7 @@ The above parameter gave a maximum accuracy of 0.6625 .
 
 ![image](https://user-images.githubusercontent.com/64249407/233207045-30830ff4-e22e-4ed7-935e-8b365f07eb28.png)
 
+<img width="581" alt="Screenshot 2023-04-20 at 3 11 11 AM" src="https://user-images.githubusercontent.com/64249407/233207045-30830ff4-e22e-4ed7-935e-8b365f07eb28.png">
 
 
 
